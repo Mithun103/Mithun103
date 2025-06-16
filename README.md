@@ -122,7 +122,7 @@
 
 | 🌐 **Application** | 🎨 **Features** | 🔨 **Tech Stack** | 🌟 **Highlights** |
 |:---:|:---:|:---:|:---:|
-| **📝 MyNotes App** | 📋 Simple full-stack note-taking app with basic CRUD features using React, Spring Boot, and MySQL | ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) | ![Feature](https://img.shields.io/badge/🔐%20Auth-Secured-green) ![Feature](https://img.shields.io/badge/📱%20Responsive-blue) |
+| **📝 MyNotes App** | 📋 Simple full-stack note-taking app with basic CRUD features using React, Spring Boot, and MySQL | ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) |![Feature](https://img.shields.io/badge/📱%20Responsive-blue) |
 
 </div>
 
